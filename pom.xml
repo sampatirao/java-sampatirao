@@ -8,6 +8,7 @@
     <name>Account Registration Webapp</name>
     <url>http://maven.apache.org</url>
     <properties>
+        <sonar.host.url>http://13.113.42.115:9000/</sonar.host.url>
         <spring.version>4.2.0.RELEASE</spring.version>
         <spring-security.version>4.0.2.RELEASE</spring-security.version>
         <spring-data-jpa.version>1.8.2.RELEASE</spring-data-jpa.version>
